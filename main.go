@@ -1,2 +1,3 @@
+package json
 func main(){
 }
